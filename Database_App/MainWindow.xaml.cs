@@ -24,5 +24,10 @@ namespace Database_App
         {
             InitializeComponent();
         }
+
+        private void Asset_Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
